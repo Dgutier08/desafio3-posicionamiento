@@ -1,0 +1,97 @@
+/*Fondo total*/
+.body{
+    background-color: black;
+    color: white;
+    }
+/*titulo IGUANA*/
+.header{
+    color: white;
+    text-align: center;
+    margin: 0;
+    border: solid 1px;
+    font-size: 50px;
+    font: 500;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header h2{
+    text-align: center; 
+    color: white;
+}
+
+/*SECTION DESCRIPCION*/
+.sectionfeuture {
+  width: 80%;
+  margin: auto;
+    }
+ 
+    /*DESCRIPCION*/
+    .feuture{
+        display: inline-block; 
+        width: 50%; 
+        text-align:left;
+        vertical-align: middle;
+        padding-right: 20px;
+        }
+    /*IMAGEN DESCRIPCION*/    
+    .imgiguana1{
+        display: inline-block; 
+        width: 30%; 
+        vertical-align: middle;
+        }
+                    
+.titulo2{
+    text-align: center; 
+    color: white;    
+}
+/*iconos*/
+.iconossection{
+padding: 10px;
+text-align: center;
+vertical-align: middle;
+}
+
+.icono{
+    display:inline-block;
+    width: 30%;
+}
+/*IMAGENES*/
+.imgenesfinales{
+    display: inline-block; 
+    width: 30%; 
+    text-align:left;
+    vertical-align: middle;
+    padding-right: 20px;  
+    text-align: center;
+	padding: 50px 0;
+}
+/*IMAGENES*/
+
+.img-section {
+	text-align: center;
+	padding: 75px 0;
+}
+
+.imagen {
+	display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+.imagen img {
+	width: 90%;
+}
+
+/*FOOTER*/
+
+.footer {
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: azure;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+}
